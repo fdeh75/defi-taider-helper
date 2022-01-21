@@ -7,5 +7,5 @@ $ pip install -r requirements.txt
 
 run
 ```bash
-$ puthon main.py
+$ python main.py
 ```
